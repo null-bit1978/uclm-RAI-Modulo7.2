@@ -1,0 +1,13 @@
+certifi==2020.11.8
+chardet==3.0.4
+click==7.1.2
+click-plugins==1.1.1
+colorama==0.4.4
+dnspython==2.0.0
+idna==2.10
+python-nmap==0.6.1
+requests==2.25.0
+shodan==1.24.0
+urllib3==1.26.2
+whois==0.9.7
+XlsxWriter==1.3.7
